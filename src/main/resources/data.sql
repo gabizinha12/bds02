@@ -17,5 +17,4 @@ INSERT INTO tb_event(name, date, url, city_id) VALUES ('Semana Spring React', '2
 INSERT INTO tb_event(name, date, url, city_id) VALUES ('Semana Spring React', '2021-05-03', 'https://devsuperior.com.br', 4);
 INSERT INTO tb_event(name, date, url, city_id) VALUES ('Semana Spring React', '2021-05-03', 'https://devsuperior.com.br', 5);
 INSERT INTO tb_event(name, date, url, city_id) VALUES ('Semana Spring React', '2021-05-03', 'https://devsuperior.com.br', 6);
-INSERT INTO tb_event(name, date, url, city_id) VALUES ('Expo XP', '2021-05-18', 'https://expoxp.com.br', 7);
 
